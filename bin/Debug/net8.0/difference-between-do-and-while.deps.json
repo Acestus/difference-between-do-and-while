@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "difference-between-do-and-while/1.0.0": {
+        "runtime": {
+          "difference-between-do-and-while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "difference-between-do-and-while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

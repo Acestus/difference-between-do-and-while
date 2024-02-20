@@ -1,0 +1,14 @@
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\bin\Debug\net8.0\difference-between-do-and-while.exe
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\bin\Debug\net8.0\difference-between-do-and-while.deps.json
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\bin\Debug\net8.0\difference-between-do-and-while.runtimeconfig.json
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\bin\Debug\net8.0\difference-between-do-and-while.dll
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\bin\Debug\net8.0\difference-between-do-and-while.pdb
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.AssemblyInfo.cs
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.dll
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\refint\difference-between-do-and-while.dll
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.pdb
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\difference-between-do-and-while.genruntimeconfig.cache
+C:\Users\wbalconi\git\free-code-camp\difference-between-do-and-while\obj\Debug\net8.0\ref\difference-between-do-and-while.dll
